@@ -1,1 +1,2 @@
 # devops
+privet, kak dela?
