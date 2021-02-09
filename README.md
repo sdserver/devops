@@ -1,6 +1,6 @@
 # devops
 Все содержимое папки .terraform
-Файлы название которых заканчивается (.tfstate или .tfvars) расширение видимо такое имеют
+Файлы название которых заканчивается (.tfstate или .tfvars)
 Файлы название которых заканчивается (*_override.tf или *_override.tf.json)
 Файлы в названии которых есть .tfstate.
 Файлы crash.log, override.tf, override.tf.json .terraformrc terraform.rc
